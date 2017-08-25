@@ -1,6 +1,10 @@
-#j2eecode包含的内容  
+ #j2eecode.zip包含的内容  
 
-这个版块里边包含：java，jdbc，servlet，jsp，spring，springmvc，mybatis，redis等技术全部学习代码。  
+这个版块里边包含：java，jdbc，servlet，jsp，spring，springmvc，mybatis，redis等技术全部学习代码。 
+
+#j2eecode.zip下载方法
+
+点击“j2eecode.zip” ，进入之后，点击Download按钮即可
 
 #压缩包解压后的文件夹介绍：  
 
