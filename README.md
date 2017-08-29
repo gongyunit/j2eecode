@@ -14,6 +14,6 @@
 
 关注“工云IT技术”公众号，扫描以下二维码即可。
 
-公众号简介：专业级的互联网IT技术研究和分享平台，目前已经涵盖J2EE，Web前端，Android，微信小程序等四大门类，几百篇技术资料。
+公众号简介：专业级的互联网IT技术研究和分享平台，目前已经涵盖J2EE，Web前端，Android，微信小程序等四大门类，三百多篇技术资料。
 
 ![](https://github.com/gongyunit/resources/blob/master/ewm.png) 
