@@ -10,6 +10,6 @@
 
 &emsp;&emsp;关注“工云IT技术”公众号，即可获取4大门类，几百篇技术资料。
 
-![](https://github.com/gongyunit/resources/blob/master/ewm.png) 
+&emsp;&emsp; ![](https://github.com/gongyunit/resources/blob/master/ewm.png) 
 
 工云IT技术：专业级的互联网IT技术研究和分享平台
