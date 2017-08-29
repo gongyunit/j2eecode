@@ -8,7 +8,7 @@
 
 ### 如何获取以上代码的相关教程？
 
-&emsp;&emsp;关注“工云IT技术”公众号，即可获取J2EE，Web前端，Android，微信小程序等四大门类，三百多篇技术资料。
+&emsp;&emsp;关注“工云IT技术”公众号，即可获取J2EE，Web前端，Android，微信小程序等四大门类，三百多篇技术资料。扫描以下二维码即可：
 
 &emsp;&emsp; ![](https://github.com/gongyunit/resources/blob/master/ewm.png) 
 
