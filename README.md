@@ -14,4 +14,4 @@
 
 关注以下公众号，即可获取4大门类，上千篇专业级的互联网IT技术教程。
 
-![](https://github.com/gongyunit/resources/blob/master/ewm3.png) 
+![](https://github.com/gongyunit/resources/blob/master/ewm.png) 
